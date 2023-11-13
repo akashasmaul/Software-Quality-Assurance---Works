@@ -15,3 +15,11 @@
 ![image](https://github.com/akashasmaul/Test-Case-Writing/assets/98410077/136e35f9-54cb-4413-b60e-987e874b8cde)
 
 
+# API Test using Postman
+
+#### Postman Test Scope
+![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/044631c2-1363-4457-a0a5-4c2b8b882096)
+
+#### HTML Report
+![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/27040503-af7b-4501-88ef-8fbf559e21e4)
+
