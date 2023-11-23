@@ -23,3 +23,9 @@
 #### HTML Report
 ![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/27040503-af7b-4501-88ef-8fbf559e21e4)
 
+
+## OTP Test Case
+
+![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/e1393550-2731-4af0-8733-092ecc253c06)
+
+
