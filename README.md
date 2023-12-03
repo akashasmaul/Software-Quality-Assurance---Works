@@ -29,5 +29,6 @@
 ![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/e1393550-2731-4af0-8733-092ecc253c06)
 
 ## Database Testing
-![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/44667a4d-0f42-45d7-a205-7827b96230de)
+![image](https://github.com/akashasmaul/Software-Quality-Assurance---Works/assets/98410077/7bbae958-56e9-49f2-b5f2-37ff47fc0f85)
+
 
