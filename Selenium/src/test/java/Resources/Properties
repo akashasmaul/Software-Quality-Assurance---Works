@@ -1,0 +1,17 @@
+//login credentials
+
+username=avro
+password=avro2024!
+Wrong_username=akash
+Wrong_password=abcd!
+
+//exact patient info
+FirstName=Asmaul Hossain
+SurName=Akash
+DOByear=1999
+DOBmonth=10
+DOBdate=18
+Sex=Male
+
+
+
